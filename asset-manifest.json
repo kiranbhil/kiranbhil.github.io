@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.17c0e03f.css",
-    "main.js": "/static/js/main.0227752d.js",
+    "main.js": "/static/js/main.a2d49b2c.js",
     "static/media/HeroImage1.jpg": "/static/media/HeroImage1.a1207fecc449e27de1aa.jpg",
     "static/media/anthropology.png": "/static/media/anthropology.35c2e46f73f3d0731eea.png",
     "static/media/myntra.png": "/static/media/myntra.ebdfbf8a2d1592083310.png",
@@ -19,10 +19,10 @@
     "static/media/typescript.svg": "/static/media/typescript.8d9549db1a0f5d73a35aa5dab48a09f9.svg",
     "index.html": "/index.html",
     "main.17c0e03f.css.map": "/static/css/main.17c0e03f.css.map",
-    "main.0227752d.js.map": "/static/js/main.0227752d.js.map"
+    "main.a2d49b2c.js.map": "/static/js/main.a2d49b2c.js.map"
   },
   "entrypoints": [
     "static/css/main.17c0e03f.css",
-    "static/js/main.0227752d.js"
+    "static/js/main.a2d49b2c.js"
   ]
 }
