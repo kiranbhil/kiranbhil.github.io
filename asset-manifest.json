@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.17c0e03f.css",
-    "main.js": "/static/js/main.a2d49b2c.js",
+    "main.css": "/static/css/main.545f5d87.css",
+    "main.js": "/static/js/main.fa033fad.js",
     "static/media/HeroImage1.jpg": "/static/media/HeroImage1.a1207fecc449e27de1aa.jpg",
     "static/media/anthropology.png": "/static/media/anthropology.35c2e46f73f3d0731eea.png",
     "static/media/myntra.png": "/static/media/myntra.ebdfbf8a2d1592083310.png",
@@ -18,11 +18,11 @@
     "static/media/mongodb.svg": "/static/media/mongodb.3e7ca79245829f75e57f83d9e7b69033.svg",
     "static/media/typescript.svg": "/static/media/typescript.8d9549db1a0f5d73a35aa5dab48a09f9.svg",
     "index.html": "/index.html",
-    "main.17c0e03f.css.map": "/static/css/main.17c0e03f.css.map",
-    "main.a2d49b2c.js.map": "/static/js/main.a2d49b2c.js.map"
+    "main.545f5d87.css.map": "/static/css/main.545f5d87.css.map",
+    "main.fa033fad.js.map": "/static/js/main.fa033fad.js.map"
   },
   "entrypoints": [
-    "static/css/main.17c0e03f.css",
-    "static/js/main.a2d49b2c.js"
+    "static/css/main.545f5d87.css",
+    "static/js/main.fa033fad.js"
   ]
 }
