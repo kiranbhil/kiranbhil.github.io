@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.545f5d87.css",
+    "main.js": "/static/js/main.fa033fad.js",
+    "static/media/HeroImage1.jpg": "/static/media/HeroImage1.a1207fecc449e27de1aa.jpg",
+    "static/media/anthropology.png": "/static/media/anthropology.35c2e46f73f3d0731eea.png",
+    "static/media/myntra.png": "/static/media/myntra.ebdfbf8a2d1592083310.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/nextjs.png": "/static/media/nextjs.48ddc8121a0fcb543d64.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/nodejs.svg": "/static/media/nodejs.8629b14e617e5ef13fedea0da8235e11.svg",
+    "static/media/express.svg": "/static/media/express.85a49c648d6d91844db838951511ea8c.svg",
+    "static/media/redux.svg": "/static/media/redux.7fe607aacc31f6e6199e70f16aae407e.svg",
+    "static/media/mongodb.svg": "/static/media/mongodb.3e7ca79245829f75e57f83d9e7b69033.svg",
+    "static/media/typescript.svg": "/static/media/typescript.8d9549db1a0f5d73a35aa5dab48a09f9.svg",
+    "index.html": "/index.html",
+    "main.545f5d87.css.map": "/static/css/main.545f5d87.css.map",
+    "main.fa033fad.js.map": "/static/js/main.fa033fad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.545f5d87.css",
+    "static/js/main.fa033fad.js"
+  ]
+}
