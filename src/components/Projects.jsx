@@ -7,17 +7,17 @@ import React from 'react'
 
 function Projects() {
     const portfolios = [
+        // {
+        //   id: 1,
+        //   src: anthropology,
+        //   text: "Anthropology Clone",
+        //   link1 :"https://wonderful-malasada-e63214.netlify.app/",
+        //   link2: "https://github.com/kiranbhil/Anthropologie-Clone",
+        //   tech: "HTML, CSS, JavaScript, JSON-Server, LocalStorage ",
+        //   desc: "Anthropologie is an American clothing retailer with approximately 200 stores across the U.S., Canada, and the UK that offers an assortment of clothing, jewelry, home furniture, decoration, beauty products, and gifts.",
+        // },
         {
           id: 1,
-          src: anthropology,
-          text: "Anthropology Clone",
-          link1 :"https://wonderful-malasada-e63214.netlify.app/",
-          link2: "https://github.com/kiranbhil/Anthropologie-Clone",
-          tech: "HTML, CSS, JavaScript, JSON-Server, LocalStorage ",
-          desc: "Anthropologie is an American clothing retailer with approximately 200 stores across the U.S., Canada, and the UK that offers an assortment of clothing, jewelry, home furniture, decoration, beauty products, and gifts.",
-        },
-        {
-          id: 2,
           src: myntra,
           text: "Myntra Clone",
           link1: "https://e-myntra-clone.netlify.app/",
@@ -26,17 +26,17 @@ function Projects() {
           desc: "Myntra provides a number of Internet-based services through the Platform. One such Service enables Users to purchase original merchandise such as clothing, footwear and accessories from various fashion and lifestyle brands."
         },
         {
-          id: 3,
+          id: 2,
           src: tripoto,
           text: "Tripoto Clone",
-          link1: "https://chic-syrniki-568fa1.netlify.app/",
+          link1: "https://tripoto-clone-mern.netlify.app/",
           link2: "https://github.com/kiranbhil/Tripoto-clone",
           tech: "ReactJs, Redux, NodeJs, ExpressJs, MongoDB,ChakraUI ",
           desc: "Tripoto is social travel platform to share and discover travel experiences, stories, community, tourism guides, hotels and holidays."
         },
 
         {
-          id: 4,
+          id: 3,
           src: em,
           text: "EmailChimp Clone",
           link1: "https://mailchimp-clone-project.netlify.app/",
